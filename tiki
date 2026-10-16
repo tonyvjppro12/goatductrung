@@ -1,0 +1,5 @@
+cd C:\Users\Admin\.gemini\antigravity\scratch\portfolio-dashboard
+git init
+git add .
+git commit -m "My Portfolio Website"
+git branch -M main
